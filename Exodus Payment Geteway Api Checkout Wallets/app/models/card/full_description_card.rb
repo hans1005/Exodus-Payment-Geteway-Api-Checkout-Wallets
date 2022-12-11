@@ -1,0 +1,2 @@
+class FullDescriptionCard < Card
+end

@@ -1,0 +1,2 @@
+class CardsController < RestController
+end
